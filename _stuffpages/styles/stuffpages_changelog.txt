@@ -1,0 +1,8 @@
+- new template system (string.Template) using `$variable` notation instead of `{{variable}}`
+- `output_dir` is now relative to `_stuffpages` directory
+- internal links fixes
+- html output fixes
+- default theme CSS improvements and fixes
+- 4 new themes: selenized-light, selenized-dark, selenized-white, selenized-black
+- switched to different code highlighting plugin (pymdownx.highlight)
+- updated config default settings
