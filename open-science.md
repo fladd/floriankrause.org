@@ -2,7 +2,7 @@
 title: Open science | Florian Krause
 ---
 
-# Open science
+# Open Science
 
 ## Open-source/free software
 * **Expyriment**  
