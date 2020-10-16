@@ -57,7 +57,7 @@ html_header = [
     '|',
     f'**[Publications]({os.path.abspath("../publications.md")})**',
     '|',
-    f'**[Open science]({os.path.abspath("../open-science.md")})**',
+    f'**[Open Science]({os.path.abspath("../open-science.md")})**',
     '|',
     f'**[Contact]({os.path.abspath("../contact.md")})**',
     '</small>',
