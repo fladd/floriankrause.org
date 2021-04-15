@@ -8,7 +8,7 @@ title: Publications | Florian Krause
 
 * **Krause, F.**, Kogias, N., Krentz, M., Lührs, M., Goebel, R. & Hermans, E.J.
   (2021). Self-regulation of stress-related large-scale brain network balance
-  using real-time fMRI Neurofeedback. BioRxiv, 2021.04.12.439440.
+  using real-time fMRI Neurofeedback. _BioRxiv, 2021.04.12.439440_.
   https://doi.org/10.1101/2021.04.12.439440
 
 ## Journal articles
