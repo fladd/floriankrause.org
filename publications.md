@@ -4,9 +4,16 @@ title: Publications | Florian Krause
 
 # Publications
 
+## Preprints
+
+* **Krause, F.**, Kogias, N., Krentz, M., Lührs, M., Goebel, R. & Hermans, E.J.
+  (2021). Self-regulation of stress-related large-scale brain network balance
+  using real-time fMRI Neurofeedback. BioRxiv, 2021.04.12.439440.
+  https://doi.org/10.1101/2021.04.12.439440
+
 ## Journal articles
 
-* Mehler, D.M.A., Williams, A.N., Whittaker, J.R., **Krause, F.**, Lührs, M.,
+* Mehler, D.M.A., Williams, A.N., Whittaker, J.R., Krause, F., Lührs, M.,
 Kunas, S., Wise, R.G., Shetty, H.G.M., Turner, D.L. & Linden, D.E.J. (2020).
 Graded fMRI Neurofeedback Training of Motor Imagery in Middle Cerebral Artery
 Stroke Patients: A Preregistered Proof-of-Concept Study. _Frontiers in Human
@@ -19,7 +26,7 @@ tactile feedback. _Human Brain Mapping, 40(14)_, 4026-4037.
 [https://doi.org/10.1002/hbm.24683](https://doi.org/10.1002/hbm.24683)
 
 * Lührs, M., Riemenschneider, B., Eck, J., Benitez, A., Poser, B.A., Heinecke,
-A., **Krause, F.**, Esposito, F., Sorger, B., Hennig, J. & Goebel, R. (2019).
+A., Krause, F., Esposito, F., Sorger, B., Hennig, J. & Goebel, R. (2019).
 The potential of MR-Encephalography for BCI/Neurofeedback applications with
 high temporal resolution. _NeuroImage, 194_, 228-243.
 [https://doi.org/10.1016/j.neuroimage.2019.03.046](https://doi.org/10.1016/j.neuroimage.2019.03.046)
@@ -29,7 +36,7 @@ Interaction between perceptual and motor magnitudes in early childhood.
 _Cognitive Development, 49_, 11-19.
 [https://doi.org/10.1016/j.cogdev.2018.11.001](https://doi.org/10.1016/j.cogdev.2018.11.001)
 
-* Mehler, D., Williams, A., **Krause, F**., Lührs, M., Shetty, H.,Turner, D.,
+* Mehler, D., Williams, A., Krause, F., Lührs, M., Shetty, H.,Turner, D.,
 Linden, D. & Whittaker, J. (2019). The BOLD response in primary motor cortex
 and supplementary motor area during kinesthetic motor imagery based graded
 fMRI neurofeedback. _NeuroImage, 184_, 36–44.
