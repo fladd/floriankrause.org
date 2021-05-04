@@ -4,7 +4,7 @@ title: Open science | Florian Krause
 
 # Open Science
 
-## Open-source/free software
+## Open source/free software
 * **Expyriment**  
   An open-source and platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments  
   [www.expyriment.org](https://www.expyriment.org)
@@ -18,18 +18,6 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
   (f)MRI scan session documentation and data archiving  
   [fladd.github.io/ScanSessionTool](http://fladd.github.io/ScanSessionTool)
   
-* **BrainVoyager Tools**  
-  An object-oriented approach to create, read and write common plain-text BrainVoyager input formats with Python  
-  [github.com/fladd/brainvoyagertools](https://github.com/fladd/brainvoyagertools)
-  
-* **dataintegrityfingerprint-python**  
-  Python implementation of Data Integrity Fingerprint  
-  [github.com/expyriment/dataintegrityfingerprint-python](https://github.com/expyriment/dataintegrityfingerprint-python)
-  
-* **DataIntegrity**  
-  A BitTorrent-compatible Data Integrity Fingerprint (DIF) proposal  
-  [github.com/fladd/DataIntegrity](https://github.com/fladd/DataIntegrity)
-  
 * **IndNet**  
   Defining subject-specific brain networks by individualizing templates  
   [github.com/can-lab/IndNet](https://github.com/can-lab/IndNet)
@@ -42,6 +30,22 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
   FSL analysis with NiPype  
   [github.com/can-lab/fawn](https://github.com/can-lab/fawn)
   
+* **pseuDICOM**  
+  Pseudonimize (f)MRI data in DICOM format  
+  [github.com/can-lab/pseuDICOM](https://github.com/can-lab/pseuDICOM)
+  
+* **BrainVoyager Tools**  
+  An object-oriented approach to create, read and write common plain-text BrainVoyager input formats with Python  
+  [github.com/fladd/brainvoyagertools](https://github.com/fladd/brainvoyagertools)
+  
+* **dataintegrityfingerprint-python**  
+  Python implementation of Data Integrity Fingerprint  
+  [github.com/expyriment/dataintegrityfingerprint-python](https://github.com/expyriment/dataintegrityfingerprint-python)
+  
+* **DataIntegrity**  
+  A BitTorrent-compatible Data Integrity Fingerprint (DIF) proposal  
+  [github.com/fladd/DataIntegrity](https://github.com/fladd/DataIntegrity)
+ 
 * **StuffPages**  
   A quick way to create simple web pages using Markdown  
   [github.com/fladd/StuffPages](https://github.com/fladd/StuffPages)
@@ -59,6 +63,9 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
   [github.com/fladd/CompareDirectories](https://github.com/fladd/CompareDirectories)
 
 ## Open data
+* **Supplements "Self-regulation of stress-related large-scale brain network balance using real-time fMRI Neurofeedback"**  
+   (Krause, Kogias, Krentz, Lührs, Goebel & Hermans, 2021)  
+   [https://osf.io/sh2ck/](https://osf.io/sh2ck/)
 
 * **Gradual real-time fMRI neurofeedback training of motor imagery in middle cerebral artery stroke patients**  
   (Mehler, Williams, Whittaker, Krause, Lührs, Turner & Linden, 2020)  
