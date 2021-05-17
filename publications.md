@@ -6,6 +6,10 @@ title: Publications | Florian Krause
 
 ## Preprints
 
+* **Krause, F.**, & Lindemann, O. (2021, May 17). On implementing
+  timing-accurate computer-based experiments. Retrieved from
+  [psyarxiv.com/k5vd9](https://psyarxiv.com/k5vd9).
+
 * **Krause, F.**, Kogias, N., Krentz, M., Lührs, M., Goebel, R. & Hermans, E.J.
   (2021). Self-regulation of stress-related large-scale brain network balance
   using real-time fMRI Neurofeedback. _BioRxiv, 2021.04.12.439440_.
