@@ -6,6 +6,12 @@ title: Publications | Florian Krause
 
 ## Preprints
 
+* Tutunji, R., Kogias, N., Kapteijns, B., Krentz, M., Krause, F., Vassena, E.,
+  Hermans, E.J. (2021). Using wearable biosensors and ecological momentary
+  assessments for the detection of prolonged stress in real life. _BioRxiv
+  2021.06.29.450360_.
+  [https://doi.org/10.1101/2021.06.29.450360](https://doi.org/10.1101/2021.06.29.450360)
+
 * **Krause, F.**, & Lindemann, O. (2021, May 17). On implementing
   timing-accurate computer-based experiments. Retrieved from
   [psyarxiv.com/k5vd9](https://psyarxiv.com/k5vd9).
@@ -13,7 +19,7 @@ title: Publications | Florian Krause
 * **Krause, F.**, Kogias, N., Krentz, M., Lührs, M., Goebel, R. & Hermans, E.J.
   (2021). Self-regulation of stress-related large-scale brain network balance
   using real-time fMRI Neurofeedback. _BioRxiv, 2021.04.12.439440_.
-  https://doi.org/10.1101/2021.04.12.439440
+  [https://doi.org/10.1101/2021.04.12.439440](https://doi.org/10.1101/2021.04.12.439440)
 
 ## Journal articles
 
