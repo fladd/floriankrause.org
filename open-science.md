@@ -65,11 +65,11 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
 ## Open data
 * **Supplements "Self-regulation of stress-related large-scale brain network balance using real-time fMRI Neurofeedback"**  
    (Krause, Kogias, Krentz, Lührs, Goebel & Hermans, 2021)  
-   [https://osf.io/sh2ck/](https://osf.io/sh2ck/)
+   [osf.io/sh2ck/](https://osf.io/sh2ck/)
 
 * **Gradual real-time fMRI neurofeedback training of motor imagery in middle cerebral artery stroke patients**  
   (Mehler, Williams, Whittaker, Krause, Lührs, Turner & Linden, 2020)  
-  [https://osf.io/y69jc/](https://osf.io/y69jc/)
+  [osf.io/y69jc/](https://osf.io/y69jc/)
   
 * **Supplements "Active head motion reduction in Magnetic Resonance Imaging using tactile feedback"**  
   (Krause, Benjamins, Eck, Lührs, van Hoof & Goebel, 2019)  
@@ -82,7 +82,7 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
 ## Preregistrations
 * **Gradual real-time fMRI neurofeedback training of motor imagery in middle cerebral artery stroke patients**  
   (Mehler, Williams, Whittaker, Krause, Lührs, Turner & Linden, 2020)  
-  [https://osf.io/y69jc/](https://osf.io/y69jc/)
+  [osf.io/y69jc/](https://osf.io/y69jc/)
   
 ## Other
 * **DIF**  
