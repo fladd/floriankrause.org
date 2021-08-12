@@ -13,7 +13,7 @@ output_dir = "../docs"
 # Default settings (can be overwritten by meta data)
 defaults = {
     "title":        None,  # None will set title to file/directory name
-    "description":  "Researcher in Cognitive Neuroscience",
+    "description":  "Cognitive/Affective Neuroscientist",
     "author":       "Florian Krause",
     "authorlink":   "https://www.floriankrause.org",
     "date":         "",

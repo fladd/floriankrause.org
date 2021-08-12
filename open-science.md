@@ -9,10 +9,10 @@ title: Open science | Florian Krause
   An open-source and platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments  
   [www.expyriment.org](https://www.expyriment.org)
 
-    * **Krause, F.** & Lindemann, O. (2014). Expyriment: A Python library for
+    * Krause, F. & Lindemann, O. (2014). Expyriment: A Python library for
 cognitive and neuroscientific experiments. _Behavior Research Methods,
 46(2)_, 416-428.
-      [https://doi.org/10.3758/s13428-013-0390-6](https://doi.org/10.3758/s13428-013-0390-6)
+[https://doi.org/10.3758/s13428-013-0390-6](https://doi.org/10.3758/s13428-013-0390-6)  
 
 * **Scan Session Tool**  
   (f)MRI scan session documentation and data archiving  
