@@ -17,9 +17,9 @@ In my current position in the Cognitive Affective Neuroscience lab of Erno Herma
   [https://doi.org/10.1101/2021.06.29.450360](https://doi.org/10.1101/2021.06.29.450360)
 
 * Krause, F., Kogias, N., Krentz, M., Lührs, M., Goebel, R. & Hermans, E.J.
-  (in print). Self-regulation of stress-related large-scale brain network balance
-  using real-time fMRI Neurofeedback. _BioRxiv, 2021.04.12.439440_.
-  [https://doi.org/10.1101/2021.04.12.439440](https://doi.org/10.1101/2021.04.12.439440)
+(in print). Self-regulation of stress-related large-scale brain network balance
+using real-time fMRI Neurofeedback. _NeuroImage_.
+Preprint available at [https://doi.org/10.1101/2021.04.12.439440](https://doi.org/10.1101/2021.04.12.439440).
 
 
 ## Neurofeedback & self-regulation
@@ -29,9 +29,9 @@ When working on the European BRAINTRAIN project as a postdoctoral researcher wit
 **Key publications:**
 
 * Krause, F., Kogias, N., Krentz, M., Lührs, M., Goebel, R. & Hermans, E.J.
-  (in print). Self-regulation of stress-related large-scale brain network balance
-  using real-time fMRI Neurofeedback. _BioRxiv, 2021.04.12.439440_.
-  [https://doi.org/10.1101/2021.04.12.439440](https://doi.org/10.1101/2021.04.12.439440)
+(in press). Self-regulation of stress-related large-scale brain network balance
+using real-time fMRI Neurofeedback. _NeuroImage_.
+Preprint available at [https://doi.org/10.1101/2021.04.12.439440](https://doi.org/10.1101/2021.04.12.439440).
 
 * Mehler, D.M.A., Williams, A.N., Whittaker, J.R., Krause, F., Lührs, M.,
 Kunas, S., Wise, R.G., Shetty, H.G.M., Turner, D.L. & Linden, D.E.J. (2020).
