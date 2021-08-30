@@ -6,7 +6,7 @@ title: Publications | Florian Krause
 
 ## Preprints
 
-* Tutunji, R., Kogias, N., Kapteijns, B., Krentz, M., **Krause, F.**, Vassena, E.,
+* Tutunji, R., Kogias, N., Kapteijns, B., Krentz, M., Krause, F., Vassena, E.,
   Hermans, E.J. (2021). Using wearable biosensors and ecological momentary
   assessments for the detection of prolonged stress in real life. _BioRxiv
   2021.06.29.450360_.
