@@ -23,7 +23,7 @@ title: Publications | Florian Krause
 (2021). Self-regulation of stress-related large-scale brain network balance
 using real-time fMRI Neurofeedback. _NeuroImage_.
 [https://doi.org/10.1016/j.neuroimage.2021.118527](https://doi.org/10.1016/j.neuroimage.2021.118527)  
-![Open Access](https://img.shields.io/badge/open%20access-yes-success)
+[![Open Access](https://img.shields.io/badge/open%20access-yes-success)](https://doi.org/10.1016/j.neuroimage.2021.118527)
 [![Data/Code available](https://img.shields.io/badge/data/code%20available-yes-success)](https://osf.io/sh2ck/)
 
 * Mehler, D.M.A., Williams, A.N., Whittaker, J.R., Krause, F., Lührs, M.,
