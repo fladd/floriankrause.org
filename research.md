@@ -17,10 +17,9 @@ In my current position in the Cognitive Affective Neuroscience lab of Erno Herma
   [https://doi.org/10.1101/2021.06.29.450360](https://doi.org/10.1101/2021.06.29.450360)
 
 * Krause, F., Kogias, N., Krentz, M., Lührs, M., Goebel, R. & Hermans, E.J.
-(in print). Self-regulation of stress-related large-scale brain network balance
+(2021). Self-regulation of stress-related large-scale brain network balance
 using real-time fMRI Neurofeedback. _NeuroImage_.
-Preprint available at [https://doi.org/10.1101/2021.04.12.439440](https://doi.org/10.1101/2021.04.12.439440).
-
+[https://doi.org/10.1016/j.neuroimage.2021.118527](https://doi.org/10.1016/j.neuroimage.2021.118527)
 
 ## Neurofeedback & self-regulation
 

@@ -16,19 +16,14 @@ title: Publications | Florian Krause
   timing-accurate computer-based experiments. Retrieved from
   [psyarxiv.com/k5vd9](https://psyarxiv.com/k5vd9).
 
-* **Krause, F.**, Kogias, N., Krentz, M., Lührs, M., Goebel, R. & Hermans, E.J.
-(in press). Self-regulation of stress-related large-scale brain network balance
-using real-time fMRI Neurofeedback. BioRxiv, 2021.04.12.439440.
-[https://doi.org/10.1101/2021.04.12.439440](https://doi.org/10.1101/2021.04.12.439440)  
-
 
 ## Journal articles
 
 * **Krause, F.**, Kogias, N., Krentz, M., Lührs, M., Goebel, R. & Hermans, E.J.
-(in press). Self-regulation of stress-related large-scale brain network balance
+(2021). Self-regulation of stress-related large-scale brain network balance
 using real-time fMRI Neurofeedback. _NeuroImage_.
-Preprint available at [https://doi.org/10.1101/2021.04.12.439440](https://doi.org/10.1101/2021.04.12.439440).  
-![Open Access](https://img.shields.io/badge/open%20access-n/a-inactive)
+[https://doi.org/10.1016/j.neuroimage.2021.118527](https://doi.org/10.1016/j.neuroimage.2021.118527)
+![Open Access](https://img.shields.io/badge/open%20access-yes-success)
 [![Data/Code available](https://img.shields.io/badge/data/code%20available-yes-success)](https://osf.io/sh2ck/)
 
 * Mehler, D.M.A., Williams, A.N., Whittaker, J.R., Krause, F., Lührs, M.,
