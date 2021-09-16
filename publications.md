@@ -130,7 +130,7 @@ grounding of numerical cognition_ (Doctoral Dissertation). Retrieved from
 
 ## Abstracts
 
-* Mehler, D., Williams, A., **Krause, F**., Luehrs, M., Shetty, H.,Turner, D.,
+* Mehler, D., Williams, A., Krause, F., Luehrs, M., Shetty, H.,Turner, D.,
 Linden, D. & Whittaker, J. (2017). Supplementary motor area, but not primary
 motor cortex - graded realtime fMRI neurofeedback training and its
 translation to stroke patients. _Journal of Cerebral Blood Flow and
