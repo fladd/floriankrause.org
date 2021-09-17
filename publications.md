@@ -25,6 +25,7 @@ using real-time fMRI neurofeedback. _NeuroImage, 243_, 118257.
 [https://doi.org/10.1016/j.neuroimage.2021.118527](https://doi.org/10.1016/j.neuroimage.2021.118527)  
 [![Open Access](https://img.shields.io/badge/open%20access-yes-success)](https://doi.org/10.1016/j.neuroimage.2021.118527)
 [![Data/Code available](https://img.shields.io/badge/data/code%20available-yes-success)](https://osf.io/sh2ck/)
+[![Citations](https://img.shields.io/badge/dynamic/json?color=informational&label=citations&query=publications%5B%3F%28%40.title%3D%3D%22Self-regulation%20of%20stress-related%20large-scale%20brain%20network%20balance%20using%20real-time%20fMRI%20Neurofeedback%22%29%5D.citations&url=http%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3Dnlx-2QsAAAAJ)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:SP6oXDckpogC)
 
 * Mehler, D.M.A., Williams, A.N., Whittaker, J.R., Krause, F., Lührs, M.,
 Kunas, S., Wise, R.G., Shetty, H.G.M., Turner, D.L. & Linden, D.E.J. (2020).
