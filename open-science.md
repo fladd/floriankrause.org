@@ -38,8 +38,8 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
   An object-oriented approach to create, read and write common plain-text BrainVoyager input formats with Python  
   [github.com/fladd/brainvoyagertools](https://github.com/fladd/brainvoyagertools)
   
-* **dataintegrityfingerprint-python**  
-  Python implementation of Data Integrity Fingerprint  
+* **Data Integrity Fingerprint (DIF)**  
+  Reference Python implementation  
   [github.com/expyriment/dataintegrityfingerprint-python](https://github.com/expyriment/dataintegrityfingerprint-python)
   
 * **DataIntegrity**  
@@ -85,9 +85,9 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
   [osf.io/y69jc/](https://osf.io/y69jc/)
   
 ## Other
-* **DIF**  
-  Data Integrity Fingerprint specification  
-  [github.com/expyriment/DIF](https://github.com/expyriment/DIF)
+* **Data Integiryt Fingerprint (DIF)**  
+  A proposal for a human-readable fingerprint of scientific datasets that allows verifying their integrity  
+  [github.com/expyriment/DIF](https://github.com/expyriment/dataintegrityfingerprint)
 
 * **BVPython**  
   Documentation for using Python in BrainVoyager  
