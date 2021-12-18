@@ -87,7 +87,7 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
 ## Other
 * **Data Integiryt Fingerprint (DIF)**  
   A proposal for a human-readable fingerprint of scientific datasets that allows verifying their integrity  
-  [github.com/expyriment/DIF](https://github.com/expyriment/dataintegrityfingerprint)
+  [github.com/expyriment/dataintegrityfingerprint](https://github.com/expyriment/dataintegrityfingerprint)
 
 * **BVPython**  
   Documentation for using Python in BrainVoyager  
