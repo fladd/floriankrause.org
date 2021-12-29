@@ -4,6 +4,8 @@ title: Publications | Florian Krause
 
 # Publications
 
+_Note: (shared) first and last authorships are **highlighted**_
+
 ## Preprints
 
 * Tutunji, R., Kogias, N., Kapteijns, B., Krentz, M., Krause, F., Vassena, E.,
