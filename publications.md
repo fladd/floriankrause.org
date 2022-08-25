@@ -153,7 +153,6 @@ hours. _Donders Wonders - On Brains and Science_.
 [blog.donders.ru.nl/?p=7327&lang=en&](http://blog.donders.ru.nl/?p=7327&lang=en&)
 
 * **Krause, F.** (2017). Maak getalgrootte voelbar. _Jeugd in School en Wereld_.
-[jsw-online.nl/2017/01/09/maak-getalgrootte-voelbaar](http://jsw-online.nl/2017/01/09/maak-getalgrootte-voelbaar/)
 
 * **Krause, F.** & Lindemann, O. (2014). Erratum to: Expyriment: A Python
 library for cognitive and neuroscientific experiments. _Behavior Research
