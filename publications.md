@@ -1,5 +1,5 @@
 ---
-title: Publications | Florian Krause
+title: Publications
 ---
 
 # Publications

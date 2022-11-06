@@ -1,5 +1,5 @@
 ---
-title: Research | Florian Krause
+title: Research
 ---
 
 # Research

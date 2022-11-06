@@ -1,5 +1,5 @@
 ---
-title: Open science | Florian Krause
+title: Open science
 ---
 
 # Open Science
