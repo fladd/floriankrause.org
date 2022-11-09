@@ -19,9 +19,10 @@ jobs:
       - name: Build
         run: |
           stuffpages build
+          stuffpages build blog
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.7
         with:
           branch: gh-pages
-          folder: docs/
+          folder: build/
           target-folder: ./
