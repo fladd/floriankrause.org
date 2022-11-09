@@ -43,8 +43,8 @@ html_head = [
 # HTML navigation
 # Can make use of defaults/meta data (lowercase, prefixed with $) and listings
 html_nav = [
-    '<span class="breadcrumb">~<span>/</span><a href="$authorlink">Florian Krause</a><span>/<span><a href="$authorlink/blog">Blog</a><span>/</span></span>',
-    #'<span class="breadcrumb"><a href="$authorlink/blog">← Back to blog</a></span>',
+    '<div><span class="breadcrumb">~<span>/</span><a href="$authorlink">Florian Krause</a><span>/</span><a href="$authorlink/blog">Blog</a><span>/</span></span></div>',
+    #'<div><span class="breadcrumb"><a href="$authorlink/blog">← Back to blog</a></span></div>',
 ]
 
 # HTML Header
