@@ -20,6 +20,7 @@ _Note: (shared) first and last authorships are **highlighted**_
 
 
 ## Journal articles
+* Sixtus, E.[^*], **Krause, F.[^*]**, Lindemann, O., Fischer, M. (in print). A sensorimotor perspective on numerical cognition. _Trends in Cognitive Sciences_.
 
 * **Krause, F.**, Kogias, N., Krentz, M., Lührs, M., Goebel, R. & Hermans, E.J.
 (2021). Self-regulation of stress-related large-scale brain network balance
@@ -159,3 +160,5 @@ library for cognitive and neuroscientific experiments. _Behavior Research
 Methods, 46(2)_, 429.
 doi: [10.3758/s13428-013-0436-9](https://doi.org/10.3758/s13428-013-0436-9)
 
+[^*]:
+    Authors contributed equally
