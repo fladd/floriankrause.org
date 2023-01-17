@@ -118,12 +118,13 @@ extras = [
     'markdown.extensions.tables',      # Tables
     'markdown.extensions.toc',         # Table of Contents
     'pymdownx.betterem',               # Improved emphasis handling
+    'pymdownx.caret',                  # Insert and superscript
     'pymdownx.emoji',                  # Emoji
     'pymdownx.highlight',              # Syntax highlighting
     'pymdownx.magiclink',              # Generate links from raw URLs
     'pymdownx.superfences',            # Fenced Code Blocks
     'pymdownx.tasklist',               # Task Lists
-    'pymdownx.tilde',                  # Underline and subscript
+    'pymdownx.tilde',                  # Delete and subscript
     # Add more 'extras' here
 ]
 
