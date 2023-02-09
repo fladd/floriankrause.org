@@ -86,7 +86,7 @@ During my PhD at the Donders Institute at Radboud University, with Harold Bekker
 **Key publications:**
 
 * Sixtus, E.\*, Krause, F.\*, Lindemann, O., Fischer, M. (2023).
-* A sensorimotor perspective on numerical cognition. _Trends in Cognitive Sciences_.
+A sensorimotor perspective on numerical cognition. _Trends in Cognitive Sciences_.
 [https://doi.org/10.1016/j.tics.2023.01.002](https://doi.org/10.1016/j.tics.2023.01.002)
 
 * Krause, F., Meyer, M., Bekkering, H., Hunnius, S. & Lindemann, O. (2019).
