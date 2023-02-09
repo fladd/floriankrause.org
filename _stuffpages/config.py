@@ -54,7 +54,7 @@ html_nav = [
 # HTML Header
 # Can make use of defaults/meta data (lowercase, prefixed with $) and listings
 html_header = [
-    '<a href="floriankrause.jpg"><img src="floriankrause_100x100.jpg"></a>',
+    '<a href="floriankrause.jpg"><img src="floriankrause_100x100.jpg" style="border-radius: 10%;"></a>',
     '',
     '<h1>Florian Krause</h1>',
     '<p>$description</p>',
