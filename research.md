@@ -85,6 +85,10 @@ During my PhD at the Donders Institute at Radboud University, with Harold Bekker
 
 **Key publications:**
 
+* Sixtus, E.\*, Krause, F.\*, Lindemann, O., Fischer, M. (2023).
+* A sensorimotor perspective on numerical cognition. _Trends in Cognitive Sciences_.
+[https://doi.org/10.1016/j.tics.2023.01.002](https://doi.org/10.1016/j.tics.2023.01.002)
+
 * Krause, F., Meyer, M., Bekkering, H., Hunnius, S. & Lindemann, O. (2019).
 Interaction between perceptual and motor magnitudes in early childhood.
 _Cognitive Development, 49_, 11-19.
@@ -105,3 +109,7 @@ Cognitive Neuroscience 26(4)_, 768-776.
 shared metric for symbolic and tactile numerosities. _Frontiers in Psychology
 4:7_.
 [https://doi.org/10.3389/fpsyg.2013.00007](https://doi.org/10.3389/fpsyg.2013.00007)
+
+
+---
+*: Authors contributed equally
