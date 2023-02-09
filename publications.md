@@ -20,8 +20,12 @@ _Note: (shared) first and last authorships are **highlighted**_
 
 
 ## Journal articles
-* Sixtus, E.\*, **Krause, F.\***, Lindemann, O., Fischer, M. (in press). A sensorimotor perspective on numerical cognition. _Trends in Cognitive Sciences_.  
-  
+* Sixtus, E.\*, **Krause, F.\***, Lindemann, O., Fischer, M. (2023). A sensorimotor perspective on numerical cognition. _Trends in Cognitive Sciences_.
+[https://doi.org/10.1016/j.tics.2023.01.002](https://doi.org/10.1016/j.tics.2023.01.002)  
+![Open Access](https://img.shields.io/badge/open%20access-n/a-inactive)
+![Data/Code available](https://img.shields.io/badge/data/code%20available-n/a-inactive)
+![Citations](https://img.shields.io/badge/citations-n/a-inactive)
+
 * **Krause, F.**, Kogias, N., Krentz, M., Lührs, M., Goebel, R. & Hermans, E.J.
 (2021). Self-regulation of stress-related large-scale brain network balance
 using real-time fMRI neurofeedback. _NeuroImage, 243_, 118257.
