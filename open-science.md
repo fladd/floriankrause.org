@@ -80,6 +80,12 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
   [osf.io/xn8cm](https://osf.io/xn8cm/)
 
 ## Preregistrations
+* **Reward sensitivity in the lab and daily life: Associations with resilience over time**  
+  [osf.io/86v52](https://osf.io/86v52)
+
+* **Neural Mechanisms of Neurofeedback Reward Processing Public registration Updates**  
+  [osf.io/bzweg](https://osf.io/bzweg)
+
 * **Gradual real-time fMRI neurofeedback training of motor imagery in middle cerebral artery stroke patients**  
   (Mehler, Williams, Whittaker, Krause, Lührs, Turner & Linden, 2020)  
   [osf.io/y69jc/](https://osf.io/y69jc/)
