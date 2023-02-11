@@ -7,6 +7,10 @@ title: Publications
 _Note: (shared) first and last authorships are **highlighted**_  
 
 ## Preprints
+* **Krause, F.**, Linden, D.E. & Hermans, E.J. (2022, October 2). Getting
+  stress-related disorders under control: The unique opportunity for
+  neurofeedback-based therapy.
+  [https://doi.org/10.31219/osf.io/vxnbk](https://doi.org/10.31219/osf.io/vxnbk)
 
 * Tutunji, R., Kogias, N., Kapteijns, B., Krentz, M., Krause, F., Vassena, E.,
   Hermans, E.J. (2021). Using wearable biosensors and ecological momentary
@@ -20,7 +24,7 @@ _Note: (shared) first and last authorships are **highlighted**_
 
 
 ## Journal articles
-* Sixtus, E.\*, **Krause, F.\***, Lindemann, O., Fischer, M. (2023). A sensorimotor perspective on numerical cognition. _Trends in Cognitive Sciences_.
+* Sixtus, E.\*, **Krause, F.\***, Lindemann, O. & Fischer, M. (2023). A sensorimotor perspective on numerical cognition. _Trends in Cognitive Sciences_.
 [https://doi.org/10.1016/j.tics.2023.01.002](https://doi.org/10.1016/j.tics.2023.01.002)  
 ![Open Access](https://img.shields.io/badge/open%20access-n/a-inactive)
 ![Data/Code available](https://img.shields.io/badge/data/code%20available-n/a-inactive)
