@@ -24,7 +24,7 @@ _Note: (shared) first and last authorships are **highlighted**_
 [https://doi.org/10.1016/j.tics.2023.01.002](https://doi.org/10.1016/j.tics.2023.01.002)  
 ![Open Access](https://img.shields.io/badge/open%20access-n/a-inactive)
 ![Data/Code available](https://img.shields.io/badge/data/code%20available-n/a-inactive)
-![Citations](https://img.shields.io/badge/citations-n/a-inactive)
+[![Citations](https://img.shields.io/badge/dynamic/json?color=informational&label=citations&query=publications%5B%3F%28%40.title%3D%3D%22A%20sensorimotor%20perspective%20on%20numerical%20cognition%22%29%5D.citations&url=http%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3Dnlx-2QsAAAAJ)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:tS2w5q8j5-wC)
 
 * **Krause, F.**, Kogias, N., Krentz, M., Lührs, M., Goebel, R. & Hermans, E.J.
 (2021). Self-regulation of stress-related large-scale brain network balance
