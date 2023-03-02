@@ -7,6 +7,11 @@ title: Publications
 _Note: (shared) first and last authorships are **highlighted**_  
 
 ## Preprints
+* Krentz, M., Tutunji, R., Kogias, N., Mahadevan, H.M., Reppmann, Z.C., Krause, F. & Hermans, E. (2023).
+  A Comparison of fMRI Data-Derived and Physiological Data-Derived Methods for Physiological Noise Correction.
+  _BioRxiv 2023.02.22.529506_.
+  [https://doi.org/10.1101/2023.02.22.529506](https://doi.org/10.1101/2023.02.22.529506)
+  
 * **Krause, F.**, Linden, D.E. & Hermans, E.J. (2022, October 2). Getting
   stress-related disorders under control: The unique opportunity for
   neurofeedback-based therapy.
