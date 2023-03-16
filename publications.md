@@ -29,7 +29,7 @@ _Note: (shared) first and last authorships are **highlighted**_
 
 
 ## Journal articles
-* Sixtus, E.\*, **Krause, F.\***, Lindemann, O. & Fischer, M. (2023). A sensorimotor perspective on numerical cognition. _Trends in Cognitive Sciences_.
+* Sixtus, E.\*, **Krause, F.\***, Lindemann, O. & Fischer, M. (2023). A sensorimotor perspective on numerical cognition. _Trends in Cognitive Sciences,  27(4)_, 367–378.
 [https://doi.org/10.1016/j.tics.2023.01.002](https://doi.org/10.1016/j.tics.2023.01.002)  
 ![Open Access](https://img.shields.io/badge/open%20access-n/a-inactive)
 ![Data/Code available](https://img.shields.io/badge/data/code%20available-n/a-inactive)
