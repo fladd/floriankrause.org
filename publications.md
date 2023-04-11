@@ -7,9 +7,14 @@ title: Publications
 _Note: (shared) first and last authorships are **highlighted**_  
 
 ## Preprints
+* Tutunji, R., Krentz, M., Kogias, N., de Voogd, L., Krause, F., Vassena, E. & Hermans, E.J. (2023).
+  Changes in large-scale neural networks under stress are linked to affective reactivity to stress in real life.
+  _bioRxiv 2023.03.28.534537_.
+  [https://doi.org/10.1101/2023.03.28.534537](https://doi.org/10.1101/2023.03.28.534537).
+  
 * Krentz, M., Tutunji, R., Kogias, N., Mahadevan, H.M., Reppmann, Z.C., Krause, F. & Hermans, E. (2023).
   A Comparison of fMRI Data-Derived and Physiological Data-Derived Methods for Physiological Noise Correction.
-  _BioRxiv 2023.02.22.529506_.
+  _bioRxiv 2023.02.22.529506_.
   [https://doi.org/10.1101/2023.02.22.529506](https://doi.org/10.1101/2023.02.22.529506)
   
 * **Krause, F.**, Linden, D.E. & Hermans, E.J. (2022, October 2). Getting
@@ -19,7 +24,7 @@ _Note: (shared) first and last authorships are **highlighted**_
 
 * Tutunji, R., Kogias, N., Kapteijns, B., Krentz, M., Krause, F., Vassena, E.,
   Hermans, E.J. (2021). Using wearable biosensors and ecological momentary
-  assessments for the detection of prolonged stress in real life. _BioRxiv
+  assessments for the detection of prolonged stress in real life. _bioRxiv
   2021.06.29.450360_.
   [https://doi.org/10.1101/2021.06.29.450360](https://doi.org/10.1101/2021.06.29.450360)
 
