@@ -80,6 +80,9 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
   [osf.io/xn8cm](https://osf.io/xn8cm/)
 
 ## Preregistrations
+* **Predicting resilience from psychological and physiological daily life measures**   
+  [osf.io/24qrt](https://osf.io/24qrt)
+
 * **Reward sensitivity in the lab and daily life: Associations with resilience over time**  
   [osf.io/86v52](https://osf.io/86v52)
 
