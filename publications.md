@@ -35,7 +35,7 @@ _Note: (shared) first and last authorships are **highlighted**_
 
 * **Krause, F.**, & Lindemann, O. (2021, May 17). On implementing
   timing-accurate computer-based experiments. Retrieved from
-  [psyarxiv.com/k5vd9](https://psyarxiv.com/k5vd9).
+  [https://doi.org/10.31234/osf.io/k5vd9](https://doi.org/10.31234/osf.io/k5vd9).
 
 
 ## Journal articles
