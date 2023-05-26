@@ -7,6 +7,11 @@ title: Publications
 _Note: (shared) first and last authorships are **highlighted**_  
 
 ## Preprints
+* Kogias, N., Geurts, D.E.M., Krause, F., Speckens A.E.M. & Hermans, E.J. (2023).
+  Study protocol for a randomised controlled trial investigating the effects of Mindfulness Based Stress Reduction on stress regulation and associated neurocognitive mechanisms in stressed university students: The MindRest study.
+  _medRxiv 2023.05.24.23290218_.
+  [https://doi.org/10.1101/2023.05.24.23290218](https://doi.org/10.1101/2023.05.24.23290218)
+  
 * Tutunji, R., Krentz, M., Kogias, N., de Voogd, L., Krause, F., Vassena, E. & Hermans, E.J. (2023).
   Changes in large-scale neural networks under stress are linked to affective reactivity to stress in real life.
   _bioRxiv 2023.03.28.534537_.
