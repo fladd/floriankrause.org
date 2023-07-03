@@ -7,15 +7,10 @@ title: Publications
 _Note: (shared) first and last authorships are **highlighted**_  
 
 ## Preprints
-* Kogias, N., Geurts, D.E.M., Krause, F., Speckens A.E.M. & Hermans, E.J. (2023).
-  Study protocol for a randomised controlled trial investigating the effects of Mindfulness Based Stress Reduction on stress regulation and associated neurocognitive mechanisms in stressed university students: The MindRest study.
-  _medRxiv 2023.05.24.23290218_.
-  [https://doi.org/10.1101/2023.05.24.23290218](https://doi.org/10.1101/2023.05.24.23290218)
-  
 * Tutunji, R., Krentz, M., Kogias, N., de Voogd, L., Krause, F., Vassena, E. & Hermans, E.J. (2023).
   Changes in large-scale neural networks under stress are linked to affective reactivity to stress in real life.
   _bioRxiv 2023.03.28.534537_.
-  [https://doi.org/10.1101/2023.03.28.534537](https://doi.org/10.1101/2023.03.28.534537).
+  [https://doi.org/10.1101/2023.03.28.534537](https://doi.org/10.1101/2023.03.28.534537)
   
 * Krentz, M., Tutunji, R., Kogias, N., Mahadevan, H.M., Reppmann, Z.C., Krause, F. & Hermans, E. (2023).
   A Comparison of fMRI Data-Derived and Physiological Data-Derived Methods for Physiological Noise Correction.
@@ -35,10 +30,18 @@ _Note: (shared) first and last authorships are **highlighted**_
 
 * **Krause, F.**, & Lindemann, O. (2021, May 17). On implementing
   timing-accurate computer-based experiments. Retrieved from
-  [https://doi.org/10.31234/osf.io/k5vd9](https://doi.org/10.31234/osf.io/k5vd9).
+  [https://doi.org/10.31234/osf.io/k5vd9](https://doi.org/10.31234/osf.io/k5vd9)
 
 
 ## Journal articles
+* Kogias, N., Geurts, D.E.M., Krause, F., Speckens A.E.M. & Hermans, E.J. (2023).
+  Study protocol for a randomised controlled trial investigating the effects of Mindfulness Based Stress Reduction on stress regulation and associated neurocognitive mechanisms in stressed university students: The MindRest study.
+  _BMC Psychology 11_, 194.
+  [https://doi.org/10.1186/s40359-023-01220-4](https://doi.org/10.1186/s40359-023-01220-4)  
+  [![Open Access](https://img.shields.io/badge/open%20access-yes-success)](https://doi.org/10.1186/s40359-023-01220-4)
+  ![Data/Code available](https://img.shields.io/badge/data/code%20available-n/a-inactive)
+  ![Citations](https://img.shields.io/badge/citations-n/a-inactive)
+  
 * Sixtus, E.\*, **Krause, F.\***, Lindemann, O. & Fischer, M. (2023). A sensorimotor perspective on numerical cognition. _Trends in Cognitive Sciences,  27(4)_, 367–378.
 [https://doi.org/10.1016/j.tics.2023.01.002](https://doi.org/10.1016/j.tics.2023.01.002)  
 ![Open Access](https://img.shields.io/badge/open%20access-n/a-inactive)
@@ -61,7 +64,7 @@ Neuroscience, 14:226_.
 [https://doi.org/10.3389/fnhum.2020.00226](https://doi.org/10.3389/fnhum.2020.00226)  
 [![Open Access](https://img.shields.io/badge/open%20access-yes-success)](https://doi.org/10.3389/fnhum.2020.00226)
 [![Data/Code available](https://img.shields.io/badge/data/code%20available-yes-success)](https://osf.io/y69jc/)
-[![Citations](https://img.shields.io/badge/dynamic/json?color=informational&label=citations&query=publications%5B%3F%28%40.title%3D%3D%22Graded%20fMRI%20neurofeedback%20training%20of%20motor%20imagery%20in%20middle%20cerebral%20artery%20stroke%20patients%3A%20a%20preregistered%20proof-of-concept%20study%22%29%5D.citations&url=http%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3Dnlx-2QsAAAAJ)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:SeFeTyx0c_EC)
+[![Citations](https://img.shields.io/badge/dynamic/json?color=informational&label=citations&query=publications%5B%3F%28%40.title%3D%3D%22Graded%20fMRI%20neurofeedback%20training%20of%20motor%20imagery%20in%20middle%20cerebral%20artery%20stroke%20patients%3A%20A%20preregistered%20proof-of-concept%20study%22%29%5D.citations&url=http%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3Dnlx-2QsAAAAJ)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:SeFeTyx0c_EC)
 
 * **Krause, F.**, Benjamins, C., Eck, J., Lührs, M., van Hoof, R. & Goebel, R.
 (2019). Active head motion reduction in Magnetic Resonance Imaging using
