@@ -7,6 +7,10 @@ title: Publications
 _Note: (shared) first and last authorships are **highlighted**_  
 
 ## Preprints
+* **Krause, F.**, van Leeuwen, J., Bögemann, S., Tutunji, R., Roelofs, K., van Kraaij, A., Stiphout, R. & Hermans, E. (2023, July 31).
+  Predicting resilience from psychological and physiological daily-life measures.
+  [https://doi.org/10.31219/osf.io/f28uv](https://doi.org/10.31219/osf.io/f28uv)
+  
 * Tutunji, R., Krentz, M., Kogias, N., de Voogd, L., Krause, F., Vassena, E. & Hermans, E.J. (2023).
   Changes in large-scale neural networks under stress are linked to affective reactivity to stress in real life.
   _bioRxiv 2023.03.28.534537_.
