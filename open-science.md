@@ -62,22 +62,25 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
   Binary compare two directories recursively  
   [github.com/fladd/CompareDirectories](https://github.com/fladd/CompareDirectories)
 
-## Open data
+## Open data/code
+* **Supplements "Predicting resilience from psychological and physiological daily-life measures"**  
+  [osf.io/8grzu/](https://osf.io/8grzu/)
+  
 * **Supplements "Self-regulation of stress-related large-scale brain network balance using real-time fMRI Neurofeedback"**  
    (Krause, Kogias, Krentz, Lührs, Goebel & Hermans, 2021)  
-   [osf.io/sh2ck/](https://osf.io/sh2ck/)
+   [osf.io/sh2ck](https://osf.io/sh2ck)
 
 * **Gradual real-time fMRI neurofeedback training of motor imagery in middle cerebral artery stroke patients**  
   (Mehler, Williams, Whittaker, Krause, Lührs, Turner & Linden, 2020)  
-  [osf.io/y69jc/](https://osf.io/y69jc/)
+  [osf.io/y69jc](https://osf.io/y69jc)
   
 * **Supplements "Active head motion reduction in Magnetic Resonance Imaging using tactile feedback"**  
   (Krause, Benjamins, Eck, Lührs, van Hoof & Goebel, 2019)  
-  [osf.io/hrnfw](https://osf.io/hrnfw/)
+  [osf.io/hrnfw](https://osf.io/hrnfw)
   
 * **Supplements "Interaction between Perceptual and Motor Magnitudes in Early Childhood"**  
   (Krause, Meyer, Bekkering, Hunnius & Lindemann, 2019)  
-  [osf.io/xn8cm](https://osf.io/xn8cm/)
+  [osf.io/xn8cm](https://osf.io/xn8cm)
 
 ## Preregistrations
 * **Predicting resilience from psychological and physiological daily life measures**   
@@ -91,10 +94,37 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
 
 * **Gradual real-time fMRI neurofeedback training of motor imagery in middle cerebral artery stroke patients**  
   (Mehler, Williams, Whittaker, Krause, Lührs, Turner & Linden, 2020)  
-  [osf.io/y69jc/](https://osf.io/y69jc/)
+  [osf.io/y69jc](https://osf.io/y69jc)
+
+## Preprints
+* **Predicting resilience from psychological and physiological daily-life measures**  
+  [osf.io/f28uv](https://osf.io/f28uv)
+  
+* **Changes in large-scale neural networks under stress are linked to affective reactivity to stress in real life**  
+  [biorxiv.org/content/10.1101/2023.03.28.534537v1](https://www.biorxiv.org/content/10.1101/2023.03.28.534537v1)
+  
+* **A Comparison of fMRI Data-Derived and Physiological Data-Derived Methods for Physiological Noise Correction**   
+  [biorxiv.org/content/10.1101/2023.02.22.529506v1](https://www.biorxiv.org/content/10.1101/2023.02.22.529506v1)
+  
+* **Getting stress-related disorders under control: The unique opportunity for neurofeedback-based therapy**   
+  [osf.io/vxnbk/](https://osf.io/vxnbk/)
+
+* **Using wearable biosensors and ecological momentary assessments for the detection of prolonged stress in real life**  
+  [biorxiv.org/content/10.1101/2021.06.29.450360v3](https://www.biorxiv.org/content/10.1101/2021.06.29.450360v3)
+  
+* **On implementing timing-accurate computer-based experiments**  
+  [psyarxiv.com/k5vd9/](https://psyarxiv.com/k5vd9/)
+
+* **Self-regulation of stress-related large-scale brain network balance using real-time fMRI Neurofeedback**  
+  (Krause, Kogias, Krentz, Lührs, Goebel & Hermans, 2021)  
+  [biorxiv.org/content/10.1101/2021.04.12.439440v2](https://www.biorxiv.org/content/10.1101/2021.04.12.439440v2)
+
+* **Active head motion reduction in Magnetic Resonance Imaging using tactile feedback**  
+  (Krause, Benjamins, Eck, Luehrs, van Hoof & Goebel, 2019)  
+  [biorxiv.org/content/10.1101/595777v1](https://www.biorxiv.org/content/10.1101/595777v1)
   
 ## Other
-* **Data Integiryt Fingerprint (DIF)**  
+* **Data Integrity Fingerprint (DIF)**  
   A proposal for a human-readable fingerprint of scientific datasets that allows verifying their integrity  
   [github.com/expyriment/dataintegrityfingerprint](https://github.com/expyriment/dataintegrityfingerprint)
 
