@@ -35,7 +35,7 @@ _Note: (shared) first and last authorships are **highlighted**_
 * Tutunji, R., Kogias, N., Kapteijns, B., Krentz, M., Krause, F., Vassena, E.,
   Hermans, E.J. (2023). Detecting Prolonged Stress in Real Life Using Wearable
   Biosensors and Ecological Momentary Assessments: Naturalistic Experimental
-  Study. Journal of Medical Internet Research, 25:e39995.
+  Study. _Journal of Medical Internet Research, 25:e39995_.
   [https://doi.org/10.2196/39995](https://doi.org/10.2196/39995)  
   [![Open Access](https://img.shields.io/badge/open%20access-yes-success)]([https://doi.org/10.1186/s40359-023-01220-4](https://doi.org/10.2196/39995))
   [![Data/Code available](https://img.shields.io/badge/data/code%20available-yes-success)](https://github.com/raytut/DetectingStress)
