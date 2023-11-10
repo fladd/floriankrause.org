@@ -10,11 +10,15 @@ In my current position in the Cognitive Affective Neuroscience lab of Erno Herma
 
 **Key publications:**
 
+* Krause, F., van Leeuwen, J., Bögemann, S., Tutunji, R., Roelofs, K., van Kraaij, A., Stiphout, R. & Hermans, E. (2023, July 31).
+  Predicting resilience from psychological and physiological daily-life measures.
+  [https://doi.org/10.31219/osf.io/f28uv](https://doi.org/10.31219/osf.io/f28uv)
+
 * Tutunji, R., Kogias, N., Kapteijns, B., Krentz, M., Krause, F., Vassena, E.,
-  Hermans, E.J. (2021). Using wearable biosensors and ecological momentary
-  assessments for the detection of prolonged stress in real life. _BioRxiv
-  2021.06.29.450360_.
-  [https://doi.org/10.1101/2021.06.29.450360](https://doi.org/10.1101/2021.06.29.450360)
+  Hermans, E.J. (2023). Detecting Prolonged Stress in Real Life Using Wearable
+  Biosensors and Ecological Momentary Assessments: Naturalistic Experimental
+  Study. _Journal of Medical Internet Research, 25:e39995_.
+  [https://doi.org/10.2196/39995](https://doi.org/10.2196/39995) 
 
 * Krause, F., Kogias, N., Krentz, M., Lührs, M., Goebel, R. & Hermans, E.J.
 (2021). Self-regulation of stress-related large-scale brain network balance
