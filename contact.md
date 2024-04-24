@@ -17,4 +17,5 @@ Email: [f.krause@donders.ru.nl](mailto:f.krause@donders.ru.nl)
 
 Visiting address: Trigon, Kapittelweg 29, Room 0.015
 
-**[Schedule an appointment with me](https://outlook.office.com/bookwithme/user/1e526b4607c343408651be0545bfd405@donders.ru.nl?anonymous&ep=plink)**
+## Appointments
+To schedule a meeting with me (in-person or online), please use my [booking page](https://outlook.office.com/bookwithme/user/1e526b4607c343408651be0545bfd405@donders.ru.nl?anonymous&ep=plink).
