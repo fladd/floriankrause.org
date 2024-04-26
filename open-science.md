@@ -83,6 +83,9 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
   [osf.io/xn8cm](https://osf.io/xn8cm)
 
 ## Preregistrations
+* **MeReL: Modelling and Predicting Resilience in Real Life (Cross-sectional)**
+  [osf.io/mw7j9](https://osf.io/mw7j9)
+  
 * **Predicting resilience from psychological and physiological daily life measures**   
   [osf.io/24qrt](https://osf.io/24qrt)
 
@@ -97,6 +100,9 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
   [osf.io/y69jc](https://osf.io/y69jc)
 
 ## Preprints
+* **Comparative investigation of appraisal style measures in their predictive potential for stress resilience and implications for predictive modeling of resilience**
+  [osf.io/preprints/psyarxiv/58ft9](https://osf.io/preprints/psyarxiv/58ft9)
+  
 * **Predicting resilience from psychological and physiological daily-life measures**  
   [osf.io/f28uv](https://osf.io/f28uv)
   
