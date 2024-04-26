@@ -7,6 +7,8 @@ title: Publications
 _Note: (shared) first and last authorships are **highlighted**_  
 
 ## Preprints
+*  Petri-Romão, P., Puhlmann, L., Zerban, M., Ahrens, K. F., Arias-Vásquez, A., Basten, U., … Kalisch, R. (2024, March 27). Comparative investigation of appraisal style measures in their predictive potential for stress resilience and implications for predictive modeling of resilience. https://doi.org/10.31234/osf.io/58ft9
+ 
 * **Krause, F.**, van Leeuwen, J., Bögemann, S., Tutunji, R., Roelofs, K., van Kraaij, A., Stiphout, R. & Hermans, E. (2023, July 31).
   Predicting resilience from psychological and physiological daily-life measures.
   [https://doi.org/10.31219/osf.io/f28uv](https://doi.org/10.31219/osf.io/f28uv)
