@@ -7,6 +7,11 @@ title: Publications
 _Note: (shared) first and last authorships are **highlighted**_  
 
 ## Preprints
+* Pereira, M., Terpstra, N., Rutiku, R., Sandberg, K.\*, Dresler, M.\* & **Krause, F.\*** (2024).
+  Neural correlates of nightmares revisited: findings from large-scale fMRI cohorts.
+  _bioRxiv 2024.07.02.601684_.
+  [https://doi.org/10.1101/2024.07.02.601684](https://doi.org/10.1101/2024.07.02.601684)
+  
 *  Petri-Romão, P., Puhlmann, L., Zerban, M., Ahrens, K. F., Arias-Vásquez, A., Basten, U., … Kalisch, R. (2024, March 27). Comparative investigation of appraisal style measures in their predictive potential for stress resilience and implications for predictive modeling of resilience. https://doi.org/10.31234/osf.io/58ft9
  
 * **Krause, F.**, van Leeuwen, J., Bögemann, S., Tutunji, R., Roelofs, K., van Kraaij, A., Stiphout, R. & Hermans, E. (2023, July 31).
