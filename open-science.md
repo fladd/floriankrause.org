@@ -17,6 +17,10 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
 * **Scan Session Tool**  
   (f)MRI scan session documentation and data archiving  
   [fladd.github.io/ScanSessionTool](http://fladd.github.io/ScanSessionTool)
+
+    * Krause, F. & Kogias, N. (2024). Scan Session Tool: (f)MRI scan session
+documentation and archiving. _Journal of Open Source Software, 9(100)_, 6126,
+[https://doi.org/10.21105/joss.06126](https://doi.org/10.21105/joss.06126) 
   
 * **IndNet**  
   Defining subject-specific brain networks by individualizing templates  
