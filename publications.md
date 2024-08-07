@@ -39,12 +39,19 @@ _Note: (shared) first and last authorships are **highlighted**_
 
 
 ## Journal articles
+* **Krause, F.** & Kogias, N. (2024). Scan Session Tool: (f)MRI scan session
+  documentation and archiving. _Journal of Open Source Software, 9(100)_, 6126,
+  [https://doi.org/10.21105/joss.06126](https://doi.org/10.21105/joss.06126)  
+  [![Open Access](https://img.shields.io/badge/open%20access-yes-success)](https://doi.org/10.21105/joss.06126)
+  [![Data/Code available](https://img.shields.io/badge/data/code%20available-yes-success)](https://github.com/fladd/ScanSessionTool)
+  ![Citations](https://img.shields.io/badge/citations-n/a-inactive)
+  
 * Tutunji, R., Kogias, N., Kapteijns, B., Krentz, M., Krause, F., Vassena, E.,
   Hermans, E.J. (2023). Detecting Prolonged Stress in Real Life Using Wearable
   Biosensors and Ecological Momentary Assessments: Naturalistic Experimental
   Study. _Journal of Medical Internet Research, 25:e39995_.
   [https://doi.org/10.2196/39995](https://doi.org/10.2196/39995)  
-  [![Open Access](https://img.shields.io/badge/open%20access-yes-success)]([https://doi.org/10.1186/s40359-023-01220-4](https://doi.org/10.2196/39995))
+  [![Open Access](https://img.shields.io/badge/open%20access-yes-success)](https://doi.org/10.2196/39995)
   [![Data/Code available](https://img.shields.io/badge/data/code%20available-yes-success)](https://github.com/raytut/DetectingStress)
   [![Citations](https://img.shields.io/badge/dynamic/json?url=http%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3Dnlx-2QsAAAAJ&query=publications%5B%3F(%40.title%3D%3D%22Detecting%20Prolonged%20Stress%20in%20Real%20Life%20Using%20Wearable%20Biosensors%20and%20Ecological%20Momentary%20Assessments%3A%20Naturalistic%20Experimental%20Study%22)%5D.citations&label=citations&color=informational)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:eflP2zaiRacC)
 
