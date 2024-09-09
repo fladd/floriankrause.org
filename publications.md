@@ -7,6 +7,10 @@ title: Publications
 _Note: (shared) first and last authorships are **highlighted**_  
 
 ## Preprints
+* Bögemann, S., Krause, F., van Kraaij, A., Marciniak, M., van Leeuwen, J., Weermeijer, J. D. M., … Hermans, E. (2024, September 9).
+  Triggering just-in-time adaptive interventions based on real-time detection of daily-life stress.
+  [https://doi.org/10.31234/osf.io/b5r7j](https://doi.org/10.31234/osf.io/b5r7j)
+  
 * Pamplona, G. S. P., Zweerings, J., Lor, C. S., deErney, L., Roecher, E., Taebi, A., Hellrung, L., Amano, K., Scheinost, D.,
   Krause, F., Rosenberg, M. D., Ionta, S., Brem, S., Hermans, E., Mathiak, K. & Scharnowski, F. (2024).
   Neural Mechanisms of Feedback Processing and Behavioral Adaptation during Neurofeedback Training. _bioRxiv 2024.08.19.608543_.
