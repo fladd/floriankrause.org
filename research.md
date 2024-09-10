@@ -10,6 +10,10 @@ In my current position in the Cognitive Affective Neuroscience lab of Erno Herma
 
 **Key publications:**
 
+* Krause, F., Linden, D.E.J. & Hermans, E.J. (2024). Getting stress-related disorders under control:
+  the untapped potential of neurofeedback. _Trends in Neurosciences_.
+  [https://doi.org/10.1016/j.tins.2024.08.007](https://doi.org/10.1016/j.tins.2024.08.007)
+  
 * Krause, F., van Leeuwen, J., Bögemann, S., Tutunji, R., Roelofs, K., van Kraaij, A., Stiphout, R. & Hermans, E. (2023, July 31).
   Predicting resilience from psychological and physiological daily-life measures.
   [https://doi.org/10.31219/osf.io/f28uv](https://doi.org/10.31219/osf.io/f28uv)
@@ -31,6 +35,10 @@ When working on the European BRAINTRAIN project as a postdoctoral researcher wit
 
 **Key publications:**
 
+* Krause, F., Linden, D.E.J. & Hermans, E.J. (2024). Getting stress-related disorders under control:
+  the untapped potential of neurofeedback. _Trends in Neurosciences_.
+  [https://doi.org/10.1016/j.tins.2024.08.007](https://doi.org/10.1016/j.tins.2024.08.007)
+  
 * Krause, F., Kogias, N., Krentz, M., Lührs, M., Goebel, R. & Hermans, E.J.
 (2021). Self-regulation of stress-related large-scale brain network balance
 using real-time fMRI neurofeedback. _NeuroImage, 243_, 118257.
