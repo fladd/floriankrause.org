@@ -48,6 +48,13 @@ _Note: (shared) first and last authorships are **highlighted**_
 
 
 ## Journal articles
+* **Krause, F.**, Linden, D.E.J. & Hermans, E.J. (2024). Getting stress-related disorders under control:
+  the untapped potential of neurofeedback. _Trends in Neurosciences_.
+  [https://doi.org/10.1016/j.tins.2024.08.007](https://doi.org/10.1016/j.tins.2024.08.007)  
+  ![Open Access](https://img.shields.io/badge/open%20access-n/a-inactive)
+  ![Data/Code available](https://img.shields.io/badge/data/code%20available-n/a-inactive)
+  ![Citations](https://img.shields.io/badge/citations-n/a-inactive)
+  
 * **Krause, F.** & Kogias, N. (2024). Scan Session Tool: (f)MRI scan session
   documentation and archiving. _Journal of Open Source Software, 9(100)_, 6126,
   [https://doi.org/10.21105/joss.06126](https://doi.org/10.21105/joss.06126)  
