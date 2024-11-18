@@ -53,14 +53,16 @@ _Note: (shared) first and last authorships are **highlighted**_
   [https://doi.org/10.1016/j.tins.2024.08.007](https://doi.org/10.1016/j.tins.2024.08.007)  
   ![Open Access](https://img.shields.io/badge/open%20access-n/a-inactive)
   ![Data/Code available](https://img.shields.io/badge/data/code%20available-n/a-inactive)
-  ![Citations](https://img.shields.io/badge/citations-n/a-inactive)
+  [![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.juleskreuer.eu%2Fcitation-badge.php%3Fshield%26doi%3D10.1016%2Fj.tins.2024.08.007&label=citations&color=informational
+)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:bnK-pcrLprsC)
   
 * **Krause, F.** & Kogias, N. (2024). Scan Session Tool: (f)MRI scan session
   documentation and archiving. _Journal of Open Source Software, 9(100)_, 6126,
   [https://doi.org/10.21105/joss.06126](https://doi.org/10.21105/joss.06126)  
   [![Open Access](https://img.shields.io/badge/open%20access-yes-success)](https://doi.org/10.21105/joss.06126)
   [![Data/Code available](https://img.shields.io/badge/data/code%20available-yes-success)](https://github.com/fladd/ScanSessionTool)
-  ![Citations](https://img.shields.io/badge/citations-n/a-inactive)
+  [![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.juleskreuer.eu%2Fcitation-badge.php%3Fshield%26doi%3D10.21105%2Fjoss.06126&label=citations&color=informational
+)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:1qzjygNMrQYC)
   
 * Tutunji, R., Kogias, N., Kapteijns, B., Krentz, M., Krause, F., Vassena, E.,
   Hermans, E.J. (2023). Detecting Prolonged Stress in Real Life Using Wearable
@@ -69,7 +71,8 @@ _Note: (shared) first and last authorships are **highlighted**_
   [https://doi.org/10.2196/39995](https://doi.org/10.2196/39995)  
   [![Open Access](https://img.shields.io/badge/open%20access-yes-success)](https://doi.org/10.2196/39995)
   [![Data/Code available](https://img.shields.io/badge/data/code%20available-yes-success)](https://github.com/raytut/DetectingStress)
-  [![Citations](https://img.shields.io/badge/dynamic/json?url=http%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3Dnlx-2QsAAAAJ&query=publications%5B%3F(%40.title%3D%3D%22Detecting%20Prolonged%20Stress%20in%20Real%20Life%20Using%20Wearable%20Biosensors%20and%20Ecological%20Momentary%20Assessments%3A%20Naturalistic%20Experimental%20Study%22)%5D.citations&label=citations&color=informational)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:eflP2zaiRacC)
+  [![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.juleskreuer.eu%2Fcitation-badge.php%3Fshield%26doi%3D10.2196%2F39995&label=citations&color=informational
+)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:eflP2zaiRacC)
 
 * Kogias, N., Geurts, D.E.M., Krause, F., Speckens A.E.M. & Hermans, E.J. (2023).
   Study protocol for a randomised controlled trial investigating the effects of Mindfulness Based Stress Reduction on stress regulation and associated neurocognitive mechanisms in stressed university students: The MindRest study.
@@ -77,13 +80,15 @@ _Note: (shared) first and last authorships are **highlighted**_
   [https://doi.org/10.1186/s40359-023-01220-4](https://doi.org/10.1186/s40359-023-01220-4)  
   [![Open Access](https://img.shields.io/badge/open%20access-yes-success)](https://doi.org/10.1186/s40359-023-01220-4)
   ![Data/Code available](https://img.shields.io/badge/data/code%20available-n/a-inactive)
-  [![Citations](https://img.shields.io/badge/dynamic/json?url=http%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3Dnlx-2QsAAAAJ&query=publications%5B%3F(%40.venue%3D%3D%22BMC%20Psychology%2011%20(194)%2C%202023%22)%5D.citations&label=citations&color=informational)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:BrmTIyaxlBUC)
+  [![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.juleskreuer.eu%2Fcitation-badge.php%3Fshield%26doi%3D10.1186%2Fs40359-023-01220-4&label=citations&color=informational
+)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:BrmTIyaxlBUC)
   
 * Sixtus, E.\*, **Krause, F.\***, Lindemann, O. & Fischer, M. (2023). A sensorimotor perspective on numerical cognition. _Trends in Cognitive Sciences,  27(4)_, 367–378.
 [https://doi.org/10.1016/j.tics.2023.01.002](https://doi.org/10.1016/j.tics.2023.01.002)  
 ![Open Access](https://img.shields.io/badge/open%20access-n/a-inactive)
 ![Data/Code available](https://img.shields.io/badge/data/code%20available-n/a-inactive)
-[![Citations](https://img.shields.io/badge/dynamic/json?color=informational&label=citations&query=publications%5B%3F%28%40.title%3D%3D%22A%20sensorimotor%20perspective%20on%20numerical%20cognition%22%29%5D.citations&url=http%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3Dnlx-2QsAAAAJ)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:tS2w5q8j5-wC)
+[![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.juleskreuer.eu%2Fcitation-badge.php%3Fshield%26doi%3D10.1016%2Fj.tics.2023.01.002&label=citations&color=informational
+)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:tS2w5q8j5-wC)
 
 * **Krause, F.**, Kogias, N., Krentz, M., Lührs, M., Goebel, R. & Hermans, E.J.
 (2021). Self-regulation of stress-related large-scale brain network balance
@@ -91,7 +96,8 @@ using real-time fMRI neurofeedback. _NeuroImage, 243_, 118257.
 [https://doi.org/10.1016/j.neuroimage.2021.118527](https://doi.org/10.1016/j.neuroimage.2021.118527)  
 [![Open Access](https://img.shields.io/badge/open%20access-yes-success)](https://doi.org/10.1016/j.neuroimage.2021.118527)
 [![Data/Code available](https://img.shields.io/badge/data/code%20available-yes-success)](https://osf.io/sh2ck/)
-[![Citations](https://img.shields.io/badge/dynamic/json?color=informational&label=citations&query=publications%5B%3F%28%40.title%3D%3D%22Self-regulation%20of%20stress-related%20large-scale%20brain%20network%20balance%20using%20real-time%20fMRI%20Neurofeedback%22%29%5D.citations&url=http%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3Dnlx-2QsAAAAJ)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:SP6oXDckpogC)
+[![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.juleskreuer.eu%2Fcitation-badge.php%3Fshield%26doi%3D10.1016%2Fj.neuroimage.2021.118527&label=citations&color=informational
+)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:SP6oXDckpogC)
 
 * Mehler, D.M.A., Williams, A.N., Whittaker, J.R., Krause, F., Lührs, M.,
 Kunas, S., Wise, R.G., Shetty, H.G.M., Turner, D.L. & Linden, D.E.J. (2020).
@@ -101,7 +107,8 @@ Neuroscience, 14:226_.
 [https://doi.org/10.3389/fnhum.2020.00226](https://doi.org/10.3389/fnhum.2020.00226)  
 [![Open Access](https://img.shields.io/badge/open%20access-yes-success)](https://doi.org/10.3389/fnhum.2020.00226)
 [![Data/Code available](https://img.shields.io/badge/data/code%20available-yes-success)](https://osf.io/y69jc/)
-[![Citations](https://img.shields.io/badge/dynamic/json?url=http%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3Dnlx-2QsAAAAJ&query=publications%5B%3F(%40.title%3D%3D%22Graded%20fMRI%20neurofeedback%20training%20of%20motor%20imagery%20in%20middle%20cerebral%20artery%20stroke%20patients%3A%20a%20preregistered%20proof-of-concept%20study%22)%5D.citations&label=citations&color=informational)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:SeFeTyx0c_EC)
+[![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.juleskreuer.eu%2Fcitation-badge.php%3Fshield%26doi%3D10.3389%2Ffnhum.2020.00226&label=citations&color=informational
+)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:SeFeTyx0c_EC)
 
 * **Krause, F.**, Benjamins, C., Eck, J., Lührs, M., van Hoof, R. & Goebel, R.
 (2019). Active head motion reduction in Magnetic Resonance Imaging using
@@ -109,7 +116,8 @@ tactile feedback. _Human Brain Mapping, 40(14)_, 4026-4037.
 [https://doi.org/10.1002/hbm.24683](https://doi.org/10.1002/hbm.24683)  
 [![Open Access](https://img.shields.io/badge/open%20access-yes-success)](https://doi.org/10.1002/hbm.24683)
 [![Data/Code available](https://img.shields.io/badge/data/code%20available-yes-success)](https://osf.io/hrnfw/)
-[![Citations](https://img.shields.io/badge/dynamic/json?color=informational&label=citations&query=publications%5B%3F%28%40.title%3D%3D%22Active%20head%20motion%20reduction%20in%20magnetic%20resonance%20imaging%20using%20tactile%20feedback%22%29%5D.citations&url=http%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3Dnlx-2QsAAAAJ)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:_Qo2XoVZTnwC)
+[![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.juleskreuer.eu%2Fcitation-badge.php%3Fshield%26doi%3D10.1002%2Fhbm.24683&label=citations&color=informational
+)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:_Qo2XoVZTnwC)
 
 * Lührs, M., Riemenschneider, B., Eck, J., Benitez, A., Poser, B.A., Heinecke,
 A., Krause, F., Esposito, F., Sorger, B., Hennig, J. & Goebel, R. (2019).
@@ -118,7 +126,8 @@ high temporal resolution. _NeuroImage, 194_, 228-243.
 [https://doi.org/10.1016/j.neuroimage.2019.03.046](https://doi.org/10.1016/j.neuroimage.2019.03.046)  
 ![Open Access](https://img.shields.io/badge/open%20access-n/a-inactive)
 ![Data/Code available](https://img.shields.io/badge/data/code%20available-n/a-inactive)
-[![Citations](https://img.shields.io/badge/dynamic/json?color=informational&label=citations&query=publications%5B%3F%28%40.title%3D%3D%22The%20potential%20of%20MR-Encephalography%20for%20BCI%2FNeurofeedback%20applications%20with%20high%20temporal%20resolution%22%29%5D.citations&url=http%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3Dnlx-2QsAAAAJ)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:TQgYirikUcIC)
+[![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.juleskreuer.eu%2Fcitation-badge.php%3Fshield%26doi%3D10.1016%2Fj.neuroimage.2019.03.046&label=citations&color=informational
+)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:TQgYirikUcIC)
 
 * **Krause, F.**, Meyer, M., Bekkering, H., Hunnius, S. & Lindemann, O. (2019).
 Interaction between perceptual and motor magnitudes in early childhood.
@@ -126,7 +135,8 @@ _Cognitive Development, 49_, 11-19.
 [https://doi.org/10.1016/j.cogdev.2018.11.001](https://doi.org/10.1016/j.cogdev.2018.11.001)  
 ![Open Access](https://img.shields.io/badge/open%20access-n/a-inactive)
 [![Data/Code available](https://img.shields.io/badge/data/code%20available-yes-success)](https://osf.io/xn8cm/)
-[![Citations](https://img.shields.io/badge/dynamic/json?color=informational&label=citations&query=publications%5B%3F%28%40.title%3D%3D%22Interaction%20between%20perceptual%20and%20motor%20magnitudes%20in%20early%20childhood%22%29%5D.citations&url=http%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3Dnlx-2QsAAAAJ)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:dhFuZR0502QC)
+[![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.juleskreuer.eu%2Fcitation-badge.php%3Fshield%26doi%3D10.1016%2Fj.cogdev.2018.11.001&label=citations&color=informational
+)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:dhFuZR0502QC)
 
 * Mehler, D., Williams, A., Krause, F., Lührs, M., Shetty, H.,Turner, D.,
 Linden, D. & Whittaker, J. (2019). The BOLD response in primary motor cortex
@@ -135,7 +145,8 @@ fMRI neurofeedback. _NeuroImage, 184_, 36–44.
 [https://doi.org/10.1016/j.neuroimage.2018.09.007](https://doi.org/10.1016/j.neuroimage.2018.09.007)  
 [![Open Access](https://img.shields.io/badge/open%20access-yes-success)](https://doi.org/10.1016/j.neuroimage.2018.09.007)
 ![Data/Code available](https://img.shields.io/badge/data/code%20available-n/a-inactive)
-[![Citations](https://img.shields.io/badge/dynamic/json?url=http%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3Dnlx-2QsAAAAJ&query=publications%5B%3F(%40.title%3D%3D%22The%20BOLD%20response%20in%20primary%20motor%20cortex%20and%20supplementary%20motor%20area%20during%20kinesthetic%20motor%20imagery%20based%20graded%20fMRI%20neurofeedback%22)%5D.citations&label=citations&color=informational)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:q3oQSFYPqjQC)
+[![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.juleskreuer.eu%2Fcitation-badge.php%3Fshield%26doi%3D10.1016%2Fj.neuroimage.2018.09.007&label=citations&color=informational
+)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:q3oQSFYPqjQC)
 
 * **Krause, F.**, Benjamins, C., Lührs, M., Eck, J., Noirhomme, Q., Rosenke,
 M., Brunheim, S., Sorger, B. & Goebel, R. (2017). Real-time fMRI-based self-
@@ -144,7 +155,8 @@ visual feedback presentations. _Brain-Computer Interfaces, 4(1–2)_, 87–101.
 [https://doi.org/10.1080/2326263X.2017.1307096](https://doi.org/10.1080/2326263X.2017.1307096)  
 [![Open Access](https://img.shields.io/badge/open%20access-yes-success)](https://doi.org/10.1080/2326263X.2017.1307096)
 ![Data/Code available](https://img.shields.io/badge/data/code%20available-n/a-inactive)
-[![Citations](https://img.shields.io/badge/dynamic/json?color=informational&label=citations&query=publications%5B%3F%28%40.title%3D%3D%22Real-time%20fMRI-based%20self-regulation%20of%20brain%20activation%20across%20different%20visual%20feedback%20presentations%22%29%5D.citations&url=http%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3Dnlx-2QsAAAAJ)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:WF5omc3nYNoC)
+[![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.juleskreuer.eu%2Fcitation-badge.php%3Fshield%26doi%3D10.1080%2F2326263X.2017.1307096&label=citations&color=informational
+)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:WF5omc3nYNoC)
 
 * **Krause, F.**, Bekkering, H., Pratt, J. & Lindemann, O. (2017). Interaction
 between numbers and size during visual search. _Psychological Research,
@@ -152,7 +164,8 @@ between numbers and size during visual search. _Psychological Research,
 [https://doi.org/10.1007/s00426-016-0771-4](https://doi.org/10.1007/s00426-016-0771-4)  
 [![Open Access](https://img.shields.io/badge/open%20access-yes-success)](https://doi.org/10.1007/s00426-016-0771-4)
 ![Data/Code available](https://img.shields.io/badge/data/code%20available-n/a-inactive)
-[![Citations](https://img.shields.io/badge/dynamic/json?color=informational&label=citations&query=publications%5B%3F%28%40.title%3D%3D%22Interaction%20between%20numbers%20and%20size%20during%20visual%20search%22%29%5D.citations&url=http%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3Dnlx-2QsAAAAJ)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:Y0pCki6q_DkC)
+[![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.juleskreuer.eu%2Fcitation-badge.php%3Fshield%26doi%3D10.1007%2Fs00426-016-0771-4&label=citations&color=informational
+)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:Y0pCki6q_DkC)
 
 * **Krause, F.**, Lindemann, O., Toni, I. & Bekkering, H. (2014). Different
 brains process numbers differently: Structural bases of individual
@@ -161,7 +174,8 @@ Cognitive Neuroscience 26(4)_, 768-776.
 [https://doi.org/10.1162/jocn_a_00518](https://doi.org/10.1162/jocn_a_00518)  
 ![Open Access](https://img.shields.io/badge/open%20access-n/a-inactive)
 ![Data/Code available](https://img.shields.io/badge/data/code%20available-n/a-inactive)
-[![Citations](https://img.shields.io/badge/dynamic/json?color=informational&label=citations&query=publications%5B%3F%28%40.title%3D%3D%22Different%20Brains%20Process%20Numbers%20Differently%3A%20Structural%20Bases%20of%20Individual%20Differences%20in%20Spatial%20and%20Nonspatial%20Number%20Representations%22%29%5D.citations&url=http%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3Dnlx-2QsAAAAJ)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:qjMakFHDy7sC)
+[![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.juleskreuer.eu%2Fcitation-badge.php%3Fshield%26doi%3D10.1162%2Fjocn_a_00518&label=citations&color=informational
+)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:qjMakFHDy7sC)
 
 * **Krause, F.** & Lindemann, O. (2014). Expyriment: A Python library for
 cognitive and neuroscientific experiments. _Behavior Research Methods,
@@ -169,7 +183,8 @@ cognitive and neuroscientific experiments. _Behavior Research Methods,
 [https://doi.org/10.3758/s13428-013-0390-6](https://doi.org/10.3758/s13428-013-0390-6)  
 ![Open Access](https://img.shields.io/badge/open%20access-n/a-inactive)
 ![Data/Code available](https://img.shields.io/badge/data/code%20available-n/a-inactive)
-[![Citations](https://img.shields.io/badge/dynamic/json?color=informational&label=citations&query=publications%5B%3F%28%40.title%3D%3D%22Expyriment%3A%20A%20Python%20library%20for%20cognitive%20and%20neuroscientific%20experiments%22%29%5D.citations&url=http%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3Dnlx-2QsAAAAJ)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:d1gkVwhDpl0C)
+[![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.juleskreuer.eu%2Fcitation-badge.php%3Fshield%26doi%3D10.3758%2Fs13428-013-0390-6&label=citations&color=informational
+)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:d1gkVwhDpl0C)
 
 * **Krause, F.**, Bekkering, H. & Lindemann, O. (2013). A feeling for numbers:
 shared metric for symbolic and tactile numerosities. _Frontiers in Psychology
@@ -177,14 +192,16 @@ shared metric for symbolic and tactile numerosities. _Frontiers in Psychology
 [https://doi.org/10.3389/fpsyg.2013.00007](https://doi.org/10.3389/fpsyg.2013.00007)  
 [![Open Access](https://img.shields.io/badge/open%20access-yes-success)](https://doi.org/10.3389/fpsyg.2013.00007)
 ![Data/Code available](https://img.shields.io/badge/data/code%20available-n/a-inactive)
-[![Citations](https://img.shields.io/badge/dynamic/json?color=informational&label=citations&query=publications%5B%3F%28%40.title%3D%3D%22A%20feeling%20for%20numbers%3A%20shared%20metric%20for%20symbolic%20and%20tactile%20numerosities%22%29%5D.citations&url=http%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3Dnlx-2QsAAAAJ)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:u-x6o8ySG0sC)
+[![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.juleskreuer.eu%2Fcitation-badge.php%3Fshield%26doi%3D10.3389%2Ffpsyg.2013.00007&label=citations&color=informational
+)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:u-x6o8ySG0sC)
 
 * Lindemann, O. & **Krause, F.** (2012). Zählen mit den Fingern: Verkörperung
 oder Veranschaulichung? _Lernen und Lernstörungen, 1(1)_, 60-62.
 [https://doi.org/10.1024/2235-0977/a000009](https://doi.org/10.1024/2235-0977/a000009)  
 ![Open Access](https://img.shields.io/badge/open%20access-n/a-inactive)
 ![Data/Code available](https://img.shields.io/badge/data/code%20available-n/a-inactive)
-[![Citations](https://img.shields.io/badge/dynamic/json?color=informational&label=citations&query=publications%5B%3F%28%40.title%3D%3D%22Z%C3%A4hlen%20mit%20den%20fingern%3A%20verk%C3%B6rperung%20oder%20veranschaulichung%3F%22%29%5D.citations&url=http%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3Dnlx-2QsAAAAJ)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:u5HHmVD_uO8C)
+[![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.juleskreuer.eu%2Fcitation-badge.php%3Fshield%26doi%3D10.1024%2F2235-0977%2Fa000009&label=citations&color=informational
+)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:u5HHmVD_uO8C)
 
 ## Books
 
@@ -193,7 +210,6 @@ grounding of numerical cognition_ (Doctoral Dissertation). Retrieved from
 [http://hdl.handle.net/2066/130434](http://hdl.handle.net/2066/130434)  
 [![Open Access](https://img.shields.io/badge/open%20access-yes-success)](http://hdl.handle.net/2066/130434)
 ![Data/Code available](https://img.shields.io/badge/data/code%20available-n/a-inactive)
-[![Citations](https://img.shields.io/badge/dynamic/json?color=informational&label=citations&query=publications%5B%3F%28%40.title%3D%3D%22Numbers%20and%20magnitude%20in%20the%20brain%3A%20A%20sensorimotor%20grounding%20of%20numerical%20cognition%22%29%5D.citations&url=http%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3Dnlx-2QsAAAAJ)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&citation_for_view=nlx-2QsAAAAJ:zYLM7Y9cAGgC)
 
 ## Abstracts
 
