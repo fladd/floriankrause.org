@@ -48,6 +48,11 @@ _Note: (shared) first and last authorships are **highlighted**_
 
 
 ## Journal articles
+* Schepers, M., Lagerweij, P., Geurts, D., Krause, F., den Ouden, H., Cools, R., Speckens, A., Collins, G. (2025). Promoting Resilience in Youth through Mindfulness mEditation (PRYME): Study protocol for a randomized controlled trial investigating the effects of mindfulness training as add-on to care-as-usual on internalizing problems, mental illness development, and associated brain and cognitive processes in help-seeking youth. _BMC Psychiatry 25, 126_.
+[https://doi.org/10.1186/s12888-024-06430-7](https://doi.org/10.1186/s12888-024-06430-7)  
+[![Open Access](https://img.shields.io/badge/open%20access-yes-success)](https://doi.org/10.1186/s12888-024-06430-7)
+![Data/Code available](https://img.shields.io/badge/data/code%20available-n/a-inactive)
+
 * **Krause, F.**, Linden, D.E.J. & Hermans, E.J. (2024). Getting stress-related disorders under control:
   the untapped potential of neurofeedback. _Trends in Neurosciences_.
   [https://doi.org/10.1016/j.tins.2024.08.007](https://doi.org/10.1016/j.tins.2024.08.007)  
