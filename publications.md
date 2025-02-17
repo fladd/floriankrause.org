@@ -52,6 +52,7 @@ _Note: (shared) first and last authorships are **highlighted**_
 [https://doi.org/10.1186/s12888-024-06430-7](https://doi.org/10.1186/s12888-024-06430-7)  
 [![Open Access](https://img.shields.io/badge/open%20access-yes-success)](https://doi.org/10.1186/s12888-024-06430-7)
 ![Data/Code available](https://img.shields.io/badge/data/code%20available-n/a-inactive)
+[![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.juleskreuer.eu%2Fcitation-badge.php%3Fshield%26doi%3D10.1186%2Fs12888-024-06430-7&label=citations&color=informational)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&cstart=20&pagesize=80&citation_for_view=nlx-2QsAAAAJ:XiVPGOgt02cC)
 
 * **Krause, F.**, Linden, D.E.J. & Hermans, E.J. (2024). Getting stress-related disorders under control:
   the untapped potential of neurofeedback. _Trends in Neurosciences_.
