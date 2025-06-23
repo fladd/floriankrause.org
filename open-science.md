@@ -87,7 +87,7 @@ documentation and archiving. _Journal of Open Source Software, 9(100)_, 6126,
   [osf.io/xn8cm](https://osf.io/xn8cm)
 
 ## Preregistrations
-* **MeReL: Modelling and Predicting Resilience in Real Life (Cross-sectional)**
+* **MeReL: Modelling and Predicting Resilience in Real Life (Cross-sectional)**  
   [osf.io/mw7j9](https://osf.io/mw7j9)
   
 * **Predicting resilience from psychological and physiological daily life measures**   
@@ -104,7 +104,13 @@ documentation and archiving. _Journal of Open Source Software, 9(100)_, 6126,
   [osf.io/y69jc](https://osf.io/y69jc)
 
 ## Preprints
-* **Comparative investigation of appraisal style measures in their predictive potential for stress resilience and implications for predictive modeling of resilience**
+* **Triggering just-in-time adaptive interventions based on real-time detection of daily-life stress**  
+  [https://doi.org/10.31234/osf.io/b5r7j](https://doi.org/10.31234/osf.io/b5r7j)
+
+* **Neural correlates of nightmares revisited: findings from large-scale fMRI cohorts**  
+  [https://doi.org/10.1101/2024.07.02.601684](https://doi.org/10.1101/2024.07.02.601684)
+
+* **Comparative investigation of appraisal style measures in their predictive potential for stress resilience and implications for predictive modeling of resilience**  
   [osf.io/preprints/psyarxiv/58ft9](https://osf.io/preprints/psyarxiv/58ft9)
   
 * **Predicting resilience from psychological and physiological daily-life measures**  
@@ -116,7 +122,8 @@ documentation and archiving. _Journal of Open Source Software, 9(100)_, 6126,
 * **A Comparison of fMRI Data-Derived and Physiological Data-Derived Methods for Physiological Noise Correction**   
   [biorxiv.org/content/10.1101/2023.02.22.529506v1](https://www.biorxiv.org/content/10.1101/2023.02.22.529506v1)
   
-* **Getting stress-related disorders under control: The unique opportunity for neurofeedback-based therapy**   
+* **Getting stress-related disorders under control: The unique opportunity for neurofeedback-based therapy**
+  (Krause, Linde, Hermans, 2024)  
   [osf.io/vxnbk/](https://osf.io/vxnbk/)
 
 * **Using wearable biosensors and ecological momentary assessments for the detection of prolonged stress in real life**  
