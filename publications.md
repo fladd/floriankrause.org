@@ -10,11 +10,6 @@ _Note: (shared) first and last authorships are **highlighted**_
 * Bögemann, S., Krause, F., van Kraaij, A., Marciniak, M., van Leeuwen, J., Weermeijer, J. D. M., … Hermans, E. (2024, September 9).
   Triggering just-in-time adaptive interventions based on real-time detection of daily-life stress.
   [https://doi.org/10.31234/osf.io/b5r7j](https://doi.org/10.31234/osf.io/b5r7j)
-  
-* Pamplona, G. S. P., Zweerings, J., Lor, C. S., deErney, L., Roecher, E., Taebi, A., Hellrung, L., Amano, K., Scheinost, D.,
-  Krause, F., Rosenberg, M. D., Ionta, S., Brem, S., Hermans, E., Mathiak, K. & Scharnowski, F. (2024).
-  Neural Mechanisms of Feedback Processing and Behavioral Adaptation during Neurofeedback Training. _bioRxiv 2024.08.19.608543_.
-  [https://doi.org/10.1101/2024.08.19.608543](https://doi.org/10.1101/2024.08.19.608543)
 
 * Pereira, M., Terpstra, N., Rutiku, R., Sandberg, K.\*, Dresler, M.\* & **Krause, F.\*** (2024).
   Neural correlates of nightmares revisited: findings from large-scale fMRI cohorts.
@@ -36,11 +31,6 @@ _Note: (shared) first and last authorships are **highlighted**_
   A Comparison of fMRI Data-Derived and Physiological Data-Derived Methods for Physiological Noise Correction.
   _bioRxiv 2023.02.22.529506_.
   [https://doi.org/10.1101/2023.02.22.529506](https://doi.org/10.1101/2023.02.22.529506)
-  
-* **Krause, F.**, Linden, D.E. & Hermans, E.J. (2022, October 2). Getting
-  stress-related disorders under control: The unique opportunity for
-  neurofeedback-based therapy.
-  [https://doi.org/10.31219/osf.io/vxnbk](https://doi.org/10.31219/osf.io/vxnbk)
 
 * **Krause, F.**, & Lindemann, O. (2021, May 17). On implementing
   timing-accurate computer-based experiments. Retrieved from
@@ -48,6 +38,10 @@ _Note: (shared) first and last authorships are **highlighted**_
 
 
 ## Journal articles
+* Pamplona, G. S. P., Zweerings, J., Lor, C. S., deErney, L., Roecher, E., Taebi, A., Hellrung, L., Amano, K., Scheinost, D.,
+  Krause, F., Rosenberg, M. D., Ionta, S., Brem, S., Hermans, E., Mathiak, K. & Scharnowski, F. (in press).
+  Neural Mechanisms of Feedback Processing and Behavioral Adaptation during Neurofeedback Training. _Human Brain Mapping_.
+
 * Schepers, M., Lagerweij, P., Geurts, D., Krause, F., den Ouden, H., Cools, R., Speckens, A., Collins, G. (2025). Promoting Resilience in Youth through Mindfulness mEditation (PRYME): Study protocol for a randomized controlled trial investigating the effects of mindfulness training as add-on to care-as-usual on internalizing problems, mental illness development, and associated brain and cognitive processes in help-seeking youth. _BMC Psychiatry 25, 126_.
 [https://doi.org/10.1186/s12888-024-06430-7](https://doi.org/10.1186/s12888-024-06430-7)  
 [![Open Access](https://img.shields.io/badge/open%20access-yes-success)](https://doi.org/10.1186/s12888-024-06430-7)
