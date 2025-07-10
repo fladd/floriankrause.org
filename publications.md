@@ -39,9 +39,13 @@ _Note: (shared) first and last authorships are **highlighted**_
 
 ## Journal articles
 * Pamplona, G. S. P., Zweerings, J., Lor, C. S., deErney, L., Roecher, E., Taebi, A., Hellrung, L., Amano, K., Scheinost, D.,
-  Krause, F., Rosenberg, M. D., Ionta, S., Brem, S., Hermans, E., Mathiak, K. & Scharnowski, F. (in press).
-  Neural Mechanisms of Feedback Processing and Behavioral Adaptation during Neurofeedback Training. _Human Brain Mapping_.
-
+  Krause, F., Rosenberg, M. D., Ionta, S., Brem, S., Hermans, E., Mathiak, K. & Scharnowski, F. (2025).
+  Neural Mechanisms of Feedback Processing and Behavioral Adaptation during Neurofeedback Training. _Human Brain Mapping,
+  46(10), e70279_. [https://doi.org/10.1002/hbm.70279](https://doi.org/10.1002/hbm.70279)
+  [![Open Access](https://img.shields.io/badge/open%20access-yes-success)](https://doi.org/10.1002/hbm.70279)
+  [![Data/Code available](https://img.shields.io/badge/data/code%20available-yes-success)](https://github.com/gustavopamplona/FeedbackReward)
+  [![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.juleskreuer.eu%2Fcitation-badge.php%3Fshield%26doi%3D10.1002%2Fhbm.70279&label=citations&color=informational)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&cstart=20&pagesize=80&citation_for_view=nlx-2QsAAAAJ:J-pR_7NvFogC)
+  
 * Schepers, M., Lagerweij, P., Geurts, D., Krause, F., den Ouden, H., Cools, R., Speckens, A., Collins, G. (2025). Promoting Resilience in Youth through Mindfulness mEditation (PRYME): Study protocol for a randomized controlled trial investigating the effects of mindfulness training as add-on to care-as-usual on internalizing problems, mental illness development, and associated brain and cognitive processes in help-seeking youth. _BMC Psychiatry 25, 126_.
 [https://doi.org/10.1186/s12888-024-06430-7](https://doi.org/10.1186/s12888-024-06430-7)  
 [![Open Access](https://img.shields.io/badge/open%20access-yes-success)](https://doi.org/10.1186/s12888-024-06430-7)
