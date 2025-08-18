@@ -41,7 +41,7 @@ _Note: (shared) first and last authorships are **highlighted**_
 * Pamplona, G. S. P., Zweerings, J., Lor, C. S., deErney, L., Roecher, E., Taebi, A., Hellrung, L., Amano, K., Scheinost, D.,
   Krause, F., Rosenberg, M. D., Ionta, S., Brem, S., Hermans, E., Mathiak, K. & Scharnowski, F. (2025).
   Neural Mechanisms of Feedback Processing and Behavioral Adaptation during Neurofeedback Training. _Human Brain Mapping,
-  46(10), e70279_. [https://doi.org/10.1002/hbm.70279](https://doi.org/10.1002/hbm.70279)
+  46(10), e70279_. [https://doi.org/10.1002/hbm.70279](https://doi.org/10.1002/hbm.70279)  
   [![Open Access](https://img.shields.io/badge/open%20access-yes-success)](https://doi.org/10.1002/hbm.70279)
   [![Data/Code available](https://img.shields.io/badge/data/code%20available-yes-success)](https://github.com/gustavopamplona/FeedbackReward)
   [![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.juleskreuer.eu%2Fcitation-badge.php%3Fshield%26doi%3D10.1002%2Fhbm.70279&label=citations&color=informational)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&cstart=20&pagesize=80&citation_for_view=nlx-2QsAAAAJ:J-pR_7NvFogC)
