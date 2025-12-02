@@ -7,10 +7,6 @@ title: Publications
 _Note: (shared) first and last authorships are **highlighted**_  
 
 ## Preprints
-* Bögemann, S., Krause, F., van Kraaij, A., Marciniak, M., van Leeuwen, J., Weermeijer, J. D. M., … Hermans, E. (2024, September 9).
-  Triggering just-in-time adaptive interventions based on real-time detection of daily-life stress.
-  [https://doi.org/10.31234/osf.io/b5r7j](https://doi.org/10.31234/osf.io/b5r7j)
-
 * Pereira, M., Terpstra, N., Rutiku, R., Sandberg, K.\*, Dresler, M.\* & **Krause, F.\*** (2024).
   Neural correlates of nightmares revisited: findings from large-scale fMRI cohorts.
   _bioRxiv 2024.07.02.601684_.
@@ -38,6 +34,13 @@ _Note: (shared) first and last authorships are **highlighted**_
 
 
 ## Journal articles
+* Bögemann, S., Krause, F., van Kraaij, A., Marciniak, M., van Leeuwen, J., Weermeijer, J. D. M., … Hermans, E. (2026).
+  Triggering just-in-time adaptive interventions based on real-time detection of daily-life stress: Methodological development and longitudinal multicenter evaluation.
+  _Behavior Research Methods, 58(12)_.
+  [https://doi.org/10.3758/s13428-025-02870-5](https://doi.org/10.3758/s13428-025-02870-5)  
+  ![Open Access](https://img.shields.io/badge/open%20access-n/a-inactive)
+  [![Data/Code available](https://img.shields.io/badge/data/code%20available-yes-success)](https://osf.io/bnse8/)
+  
 * Pamplona, G. S. P., Zweerings, J., Lor, C. S., deErney, L., Roecher, E., Taebi, A., Hellrung, L., Amano, K., Scheinost, D.,
   Krause, F., Rosenberg, M. D., Ionta, S., Brem, S., Hermans, E., Mathiak, K. & Scharnowski, F. (2025).
   Neural Mechanisms of Feedback Processing and Behavioral Adaptation during Neurofeedback Training. _Human Brain Mapping,
