@@ -34,6 +34,15 @@ _Note: (shared) first and last authorships are **highlighted**_
 
 
 ## Journal articles
+* de Vos, Jette H., Baldi, S., Lange, I., Michielse, S., Bakker, J., Krause, F., Linden, D.E.J., Leibold, N.K., Marcelis, M., van Os, J., van Amelsvoort, T., Schruers, K.R.J., Goossens, L. (2006).
+  Intrinsic Connectivity Networks during Fear and Safety Learning in Youth.
+  _The British Journal of Psychiatry: The Journal of Mental Science, July 27, 2026, 1–8._
+  [https://doi.org/10.1192/bjp.2026.10718](https://doi.org/10.1192/bjp.2026.10718)  
+  [![Open Access](https://img.shields.io/badge/open%20access-yes-success)](https://doi.org/10.1192/bjp.2026.10718)
+  ![Data/Code available](https://img.shields.io/badge/data/code%20available-n/a-inactive)
+  [![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.juleskreuer.eu%2Fcitation-badge.php%3Fshield%26doi%3D10.1192%2Fbjp.2026.10718&label=citations&color=informational
+)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&sortby=pubdate&citation_for_view=nlx-2QsAAAAJ:ILKRHgRFtOwC)
+  
 * Bögemann, S., Krause, F., van Kraaij, A., Marciniak, M., van Leeuwen, J., Weermeijer, J. D. M., … Hermans, E. (2026).
   Triggering just-in-time adaptive interventions based on real-time detection of daily-life stress: Methodological development and longitudinal multicenter evaluation.
   _Behavior Research Methods, 58(12)_.
