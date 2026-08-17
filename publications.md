@@ -49,6 +49,8 @@ _Note: (shared) first and last authorships are **highlighted**_
   [https://doi.org/10.3758/s13428-025-02870-5](https://doi.org/10.3758/s13428-025-02870-5)  
   ![Open Access](https://img.shields.io/badge/open%20access-n/a-inactive)
   [![Data/Code available](https://img.shields.io/badge/data/code%20available-yes-success)](https://osf.io/bnse8/)
+  [![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.juleskreuer.eu%2Fcitation-badge.php%3Fshield%26doi%3D10.3758%2Fs13428-025-02870-5&label=citations&color=informational
+)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nlx-2QsAAAAJ&sortby=pubdate&citation_for_view=nlx-2QsAAAAJ:W5xh706n7nkC)
   
 * Pamplona, G. S. P., Zweerings, J., Lor, C. S., deErney, L., Roecher, E., Taebi, A., Hellrung, L., Amano, K., Scheinost, D.,
   Krause, F., Rosenberg, M. D., Ionta, S., Brem, S., Hermans, E., Mathiak, K. & Scharnowski, F. (2025).
